@@ -1,0 +1,3 @@
+[submodule "modules/dbal"]
+	path = modules/dbal
+	url = https://github.com/dsgepers/submodule.git
